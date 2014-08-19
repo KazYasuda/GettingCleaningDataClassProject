@@ -10,6 +10,8 @@ It is further assumed that the following files are saved in the working director
 * X_test.txt
 * y_train.txt
 * y_test.txt
+* subject_train.txt
+* subject_test.txt
 * features.txt
 * activity_labels.txt
 
